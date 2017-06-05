@@ -1,0 +1,12 @@
+	<html> 
+	<head> 
+	<script> 
+	setTimeout(function () {document.location.href = "https://validately.com/login";}, 2000); 
+	
+	</script> 
+	</head> 
+	<body> 
+	blah 
+	<iframe src="http://validately.com/logout"></iframe> 
+	</body> 
+	</html> 
